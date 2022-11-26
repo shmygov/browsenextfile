@@ -1,5 +1,7 @@
 include src/browsenextfile/nextfile_options/nextfile_options.txt
 include src/browsenextfile/ui/i18n/language_names/language_names.txt
+include src/browsenextfile/ui/i18n/nextfile.pot
+recursive-include src/browsenextfile/ui/i18n/locale *.po
 recursive-include src/browsenextfile/ui/i18n/locale *.mo
 recursive-include src/browsenextfile/ui/js *
 include src/browsenextfile/ui/start/*

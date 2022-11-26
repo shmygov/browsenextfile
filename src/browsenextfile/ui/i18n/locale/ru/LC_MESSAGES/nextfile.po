@@ -1,0 +1,90 @@
+# nextfile: view local files with a browser.
+# Copyright (C) 2022 Dmitry Shmygov
+# This file is distributed under the same license as the nextfile package.
+# Dmitry Shmygov , 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: nextfile\n"
+"Report-Msgid-Bugs-To: <shmygov@rambler.ru>\n"
+"POT-Creation-Date: 2022-01-30 22:33+0300\n"
+"PO-Revision-Date: 2022-01-30 23:17+0300\n"
+"Last-Translator: Dmitry Shmygov <shmygov@rambler.ru>\n"
+"Language-Team: Russian <gnu@d07.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ui/translations.py:5
+msgid "Usage:"
+msgstr "Как пользоваться:"
+
+#: ui/translations.py:6
+msgid "View local files (images or videos) using the browser. Change to next or previous file in the directory by mouse click."
+msgstr "Просматривать локальные файлы на компьютере (изображения или видео) при помощи веб-браузера. Переходить к следующему или предыдущему файлу в директории можно, кликая мышью."
+
+#: ui/translations.py:9
+msgid "Navigate to any local file (In Firefox press \"Alt\" key to open the browser menu and choose File--Open File. In Chrome and Edge press \"Ctrl+O\". Or click \"Open\" button on the upper side of the screen)."
+msgstr "Перейдите на любой локальный файл на компьютере (В браузере Firefox нажмите клавишу \"Alt\", чтобы открыть меню браузера, и выберите Файл--Открыть файл. В браузерах Chrome или Edge нажмите клавишу \"Ctrl+O\". Или кликните мышью на кнопке \"Открыть\" в верхней части экрана)."
+
+#: ui/translations.py:12
+msgid "To open next file in the directory, click \">\" button on the right side of the screen."
+msgstr "Чтобы открыть следующий файл в директории, кликните мышью на кнопке \">\" в правой части экрана."
+
+#: ui/translations.py:15
+msgid "To open previous file in the directory, click \"<\" button on the left side of the screen."
+msgstr "Чтобы открыть предыдущий файл в директории, кликните мышью на кнопке \"<\" в левой части экрана."
+
+#: ui/translations.py:19
+msgid "To zoom in, click \"+\" button at the bottom of the screen, or drag the image down with the middle mouse button (wheel) pressed."
+msgstr "Чтобы увеличить изображение, кликните на кнопке \"+\" в нижней части экрана, или потяните изображение мышью вниз при нажатой средней кнопке мыши (колёсике)."
+
+#: ui/translations.py:22
+msgid "To zoom out, click \"-\" button at the bottom of the screen, or drag the image up with the middle mouse button (wheel) pressed."
+msgstr "Чтобы уменьшить изображение, кликните на кнопке \"-\" в нижней части экрана, или потяните изображение мышью вверх при нажатой средней кнопке мыши (колёсике)."
+
+#: ui/translations.py:25
+msgid "To scroll the image, use scroll bars, or drag the image with the left mouse button pressed."
+msgstr "Для прокрутки изображения пользуйтесь полосами прокрутки, или перемещайте изображение мышью при нажатой левой кнопке мыши."
+
+#: ui/translations.py:31
+msgid "Go to the next image of the gallery"
+msgstr "Перейти к следующему изображению в галерее"
+
+#: ui/translations.py:32
+msgid "Go to the previous image of the gallery"
+msgstr "Перейти к предыдующему изображению в галерее"
+
+#: ui/translations.py:33
+msgid "Zoom out (or drag UP with mouse wheel pressed)"
+msgstr "Уменьшить изображение (можно также потянуть изображение мышью ВВЕРХ при нажатом колёсике мыши)"
+
+#: ui/translations.py:34
+msgid "Zoom in (or drag DOWN with mouse wheel pressed)"
+msgstr "Увеличить изображение (можно также потянуть изображение мышью ВНИЗ при нажатом колёсике мыши)"
+
+#: ui/translations.py:35
+msgid "Open"
+msgstr "Открыть"
+
+#: ui/translations.py:36
+msgid "Change directory and select a file"
+msgstr "Перейти в другую директорию и выбрать файл"
+
+#: ui/translations.py:37
+msgid "Show usage information"
+msgstr "Показать информацию о том, как пользоваться программой"
+
+#: ui/translations.py:42
+msgid "Close the window"
+msgstr "Закрыть окно"
+
+#: ui/translations.py:47
+msgid "Select directory"
+msgstr "Выбрать директорию"
+
+#: ui/translations.py:48
+msgid "Select language"
+msgstr "Выбрать язык"
